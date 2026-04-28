@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:9d50bb&height=220&section=header&text=BATIST&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Enter%20the%20Shadows%20%F0%9F%98%BC&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:9d50bb&height=220&section=header&text=BATIST&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Puspa%20Shahi&descAlignY=55&descSize=20" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=9D50BB&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Offensive+Security+Learner;Bug+Bounty+Hunter;Learning+to+Break+%26+Secure;Trust+Nothing+%F0%9F%91%81" />
 
@@ -28,25 +28,21 @@
 
 ## 🕶️ Identity
 
-```python
-class ShadowDev:
-    def __init__(self):
-        self.alias = "BATIST"
-        self.real_name = "Puspa Shahi"
-        self.role = "Cyber Security Student"
-        self.mindset = "Offensive Security"
-        self.base = "Unknown 🌑"
+<div align="center">
 
-    def philosophy(self):
-        return [
-            "Think like attacker",
-            "Break to understand",
-            "Secure what matters",
-            "Stay invisible"
-        ]
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&width=750&lines=Initializing+identity...;Alias:+BATIST;Name:+Puspa+Shahi;Role:+Cyber+Security+Student;Mode:+Offensive+Security;Status:+In+the+Shadows+%F0%9F%8C%91;Philosophy:+Think+like+an+attacker;System:+Active..." />
 
-me = ShadowDev()
-print(me.philosophy())
+</div>
+
+```bash
+> loading profile...
+> alias: BATIST
+> specialization: offensive security
+> tools: kali linux | terminal | burp suite
+> platforms: tryhackme | portswigger
+> objective: break -> analyze -> secure
+> mindset: silent but observing
+> status: evolving...
 ```
 
 ---
@@ -61,7 +57,7 @@ print(me.philosophy())
 
 ---
 
-### 🛠️ Arsenal
+## 🛠️ Arsenal
 
 <div align="center">
 
@@ -73,22 +69,18 @@ print(me.philosophy())
 <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=red" />
 <img src="https://img.shields.io/badge/PortSwigger-000000?style=for-the-badge&logo=burpsuite&logoColor=orange" />
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" />
 
 </div>
 
 ---
 
----
-
 ## 🧬 Mindset
 
-> “Security is not a product — it’s a mindset.”
+> “The quieter you become, the more you are able to hear.”
 >
-> “The system isn’t broken… you just haven’t looked deep enough.”
+> “Break systems. Understand them. Then make them unbreakable.”
 
 ---
-
 
 <div align="center">
 
