@@ -76,7 +76,7 @@
 
 ## 🧬 Mindset
 
-> “The quieter you become, the more you are able to hear.”
+> “Let's sucure together.”
 >
 > “Break systems. Understand them. Then make them unbreakable.”
 
