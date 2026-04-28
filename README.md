@@ -73,7 +73,6 @@
 </div>
 
 ---
----
 
 ## 🟢 Status
 
@@ -85,10 +84,9 @@
 
 ---
 
-
 ## 🧬 Mindset
 
-> “Stay low. Think deep. Break silently..”
+> “Stay low. Think deep. Break silently.”
 >
 > “Break systems. Understand them. Then make them unbreakable.”
 
