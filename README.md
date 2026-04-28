@@ -76,7 +76,7 @@
 
 ## 🧬 Mindset
 
-> “Let's sucure together.”
+> “Let's secure together.”
 >
 > “Break systems. Understand them. Then make them unbreakable.”
 
