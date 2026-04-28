@@ -77,6 +77,27 @@ print(me.philosophy())
 
 </div>
 
+## 🛠️ Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=red" />
+<img src="https://img.shields.io/badge/PortSwigger-000000?style=for-the-badge&logo=burpsuite&logoColor=orange" />
+
+</div>
+
+---
+
+## 🧠 Mindset
+
+> “The quieter you become, the more you are able to hear.”
+> — Anonymous
 
 ---
 
