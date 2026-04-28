@@ -73,10 +73,22 @@
 </div>
 
 ---
+---
+
+## 🟢 Status
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=700&color=9D50BB&center=true&vCenter=true&width=600&lines=Status:+Online;Focus:+Cybersecurity;Mode:+Learning+%26+Evolving;Activity:+Exploring+Systems..." />
+
+</div>
+
+---
+
 
 ## 🧬 Mindset
 
-> “Let's secure together.”
+> “Stay low. Think deep. Break silently..”
 >
 > “Break systems. Understand them. Then make them unbreakable.”
 
