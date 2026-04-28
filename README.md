@@ -61,24 +61,7 @@ print(me.philosophy())
 
 ---
 
-## 🛠️ Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-## 🧠 Current Mission
-
-* 🔐 Exploring Web Security
-* 🐧 Mastering Linux
-* 🕵️ Bug Hunting Practice
-* ⚔️ Penetration Testing
-* 🤖 Automating Tasks
-## 🛠️ Arsenal
+### 🛠️ Arsenal
 
 <div align="center">
 
@@ -93,6 +76,18 @@ print(me.philosophy())
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" />
 
 </div>
+
+
+---
+
+## 🧠 Current Mission
+
+* 🔐 Exploring Web Security
+* 🐧 Mastering Linux
+* 🕵️ Bug Hunting Practice
+* ⚔️ Penetration Testing
+* 🤖 Automating Tasks
+
 
 ---
 
