@@ -84,12 +84,7 @@
 
 ---
 
-## 🧬 Mindset
-
-> “Stay low. Think deep. Break silently.”
->
-> “Break systems. Understand them. Then make them unbreakable.”
-
+## 🧬 
 ---
 
 <div align="center">
